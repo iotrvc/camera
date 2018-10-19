@@ -1,6 +1,6 @@
 # camera
 
-<img src="cameraboard.png" width="30%"><br>
+<img src="cameraboard.png" width="70%"><br>
 
 ### Preparation:
 
