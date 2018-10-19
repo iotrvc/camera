@@ -5,6 +5,7 @@
 1. Buy ArduCam Mini Module  https://www.amazon.com/Arducam-Module-Camera-Arduino-Mega2560/dp/B013JUKZ48
 <img src="camera.jpg" width="20%"><br>
 2. Buy Particle Photon Development Kit https://www.amazon.com/Particle-Development-Prototyping-Breadboard-Electronics/dp/B012D6UYTA 
+<img src="photondevkit.jpg" width="30%"><br>
 3. Wiremap for Camera/Photon  
 ￼
         GND - GND
