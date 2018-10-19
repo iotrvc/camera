@@ -5,7 +5,7 @@
 ### Preparation:
 
 1. Buy ArduCam Mini Module <br>
-<a href="https://www.amazon.com/Arducam-Module-Camera-Arduino-Mega2560/dp/B013JUKZ48">(See link)</a>
+<a href="https://www.amazon.com/Arducam-Module-Camera-Arduino-Mega2560/dp/B013JUKZ48">(See link)</a><br>
 <img src="camera.jpg" width="20%"><br>
 2. Buy Particle Photon Development Kit <br>
 <a href="https://www.amazon.com/Particle-Development-Prototyping-Breadboard-Electronics/dp/B012D6UYTA">(See link)</a> <br>
