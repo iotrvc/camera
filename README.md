@@ -1,5 +1,7 @@
 # camera
 
+<img src="cameraboard.png" width="30%"><br>
+
 ### Preparation:
 
 1. Buy ArduCam Mini Module  https://www.amazon.com/Arducam-Module-Camera-Arduino-Mega2560/dp/B013JUKZ48
