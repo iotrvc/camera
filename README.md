@@ -8,8 +8,8 @@
 <img src="photondevkit.jpg" width="30%"><br>
 3. Wiremap for Camera/Photon <br>
 ￼<img src="3.png" width="30%"><br>
-       GND - GND
-       VCC - VIN
+       GND - GND<br>
+       VCC - VIN<br>
 
 ### Connect and take photos every 10 Seconds
 
