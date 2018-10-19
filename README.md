@@ -16,7 +16,7 @@
 
 ### Connect and take photos every 10 Seconds
 
-1. Install Node.js (<a href="https://nodejs.org/en/">(See link)</a> )
+1. Install Node.js <a href="https://nodejs.org/en/">(See link)</a> 
 2. Download and install Particle Dev to Mac/PC & Login <a href="https://docs.particle.io/guide/tools-and-features/dev/">(See link)</a>  
 3. Fork and Clone <a href="https://github.com/dmiddlecamp/particle_arducam">(See link)</a> 
 4. Copy particle_arducam/firmware/tcp_photographer/main.ino to particle_arducam/firmware/library2/
