@@ -31,10 +31,13 @@
 12. Use command prompt to CD to particle_arducam/firmware/services/tcp_server
 13. Use commands  npm install node main.js
 
-You should now see:
 '''
+
+You should now see:
+
 Listening for TCP packets on port 5550 ...
 Connection received
 saving image
 writing 492329 bytes to file
+
 '''
