@@ -6,9 +6,9 @@
 <img src="camera.jpg" width="20%"><br>
 2. Buy Particle Photon Development Kit https://www.amazon.com/Particle-Development-Prototyping-Breadboard-Electronics/dp/B012D6UYTA <br>
 <img src="photondevkit.jpg" width="30%"><br>
-3. Wiremap for Camera/Photon  
-￼
-        GND - GND
+3. Wiremap for Camera/Photon <br>
+￼<img src="3.png" width="20%"><br>
+       GND - GND
        VCC - VIN
 
 ### Connect and take photos every 10 Seconds
