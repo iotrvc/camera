@@ -4,10 +4,10 @@
 
 ### Preparation:
 
-1. Buy ArduCam Mini Module <a href="https://www.amazon.com/Arducam-Module-Camera-Arduino-Mega2560/dp/B013JUKZ48">link</a>
+1. Buy ArduCam Mini Module <a href="https://www.amazon.com/Arducam-Module-Camera-Arduino-Mega2560/dp/B013JUKZ48">(See link)</a>
 <img src="camera.jpg" width="20%"><br>
 2. Buy Particle Photon Development Kit <br>
-<a href="https://www.amazon.com/Particle-Development-Prototyping-Breadboard-Electronics/dp/B012D6UYTA">link</a> <br>
+<a href="https://www.amazon.com/Particle-Development-Prototyping-Breadboard-Electronics/dp/B012D6UYTA">(See link)</a> <br>
 <img src="photondevkit.jpg" width="30%"><br>
 3. Wiremap for Camera/Photon <br>
 ￼<img src="3.png" width="30%"><br>
@@ -16,9 +16,9 @@
 
 ### Connect and take photos every 10 Seconds
 
-1. Install Node.js (see <a href="https://nodejs.org/en/">link</a> )
-2. Download and install Particle Dev to Mac/PC & Login <a href="https://docs.particle.io/guide/tools-and-features/dev/">link</a>  
-3. Fork and Clone See <a href="https://github.com/dmiddlecamp/particle_arducam">link</a> 
+1. Install Node.js (<a href="https://nodejs.org/en/">(See link)</a> )
+2. Download and install Particle Dev to Mac/PC & Login <a href="https://docs.particle.io/guide/tools-and-features/dev/">(See link)</a>  
+3. Fork and Clone <a href="https://github.com/dmiddlecamp/particle_arducam">(See link)</a> 
 4. Copy particle_arducam/firmware/tcp_photographer/main.ino to particle_arducam/firmware/library2/
 5. Get local IP address of computer and update line 9 of main.ino
 6. From Particle Dev go to File > Add Project Folder
