@@ -7,7 +7,7 @@
 2. Buy Particle Photon Development Kit https://www.amazon.com/Particle-Development-Prototyping-Breadboard-Electronics/dp/B012D6UYTA <br>
 <img src="photondevkit.jpg" width="30%"><br>
 3. Wiremap for Camera/Photon <br>
-￼<img src="3.png" width="20%"><br>
+￼<img src="3.png" width="30%"><br>
        GND - GND
        VCC - VIN
 
